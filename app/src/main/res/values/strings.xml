@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DLC_maxi</string>
+    <string name="date_de_expiration">date d\'expiration</string>
+    <string name="date_de_production">date de production</string>
+    <string name="verifier">verifier</string>
+    <string name="nouveau">nouveau</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="DatePickerDialogStyle" parent="ThemeOverlay.AppCompat.Dialog">
+        <item name="colorAccent">@color/date_picker_dialog_header_background</item>  <!--header background-->
+        <item name="android:windowBackground">@color/date_picker_dialog_background</item>     <!--calendar background-->
+        <item name="android:colorControlActivated">@color/date_picker_dialog_selected_day</item> <!--selected day-->
+        <item name="android:textColorPrimary">@color/date_picker_dialog_selected_month</item> <!--days of the month-->
+        <item name="android:textColorSecondary">@color/date_picker_dialog_day_of_week</item>    <!--days of the week-->
+    </style>
+</resources>
